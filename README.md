@@ -14,3 +14,7 @@ S3 Object Storage Classes(Standard, Standard IA, S3 One Zone IA,  Intelligent-Ti
 S3 Lifecycle Configuration and S3 Replication. Example of Cross-Region Replication of an S3 Static Website.
 ![alt text](<Screenshot 2024-06-03 201534.png>)
 ![alt text](<Screenshot 2024-06-03 202421.png>) 
+
+Experimenting With Multi-Region Access Points
+![alt text](<Screenshot 2024-06-04 114507-1.png>) 
+![alt text](<Screenshot 2024-06-04 113722-1.png>)
