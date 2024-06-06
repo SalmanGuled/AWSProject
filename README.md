@@ -21,3 +21,9 @@ Experimenting With Multi-Region Access Points
 
 VPC Sizing and Structure
 ![alt text](<Screenshot 2024-06-05 230115.png>)
+
+Implementing a multi-tier VPC Subnet
+![alt text](<Screenshot 2024-06-06 122135.png>)
+![alt text](<Screenshot 2024-06-06 124032.png>)
+![alt text](<Screenshot 2024-06-06 124757.png>)
+
