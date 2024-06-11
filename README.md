@@ -26,4 +26,6 @@ Implementing a multi-tier VPC Subnet
 ![alt text](<Screenshot 2024-06-06 122135.png>)
 ![alt text](<Screenshot 2024-06-06 124032.png>)
 ![alt text](<Screenshot 2024-06-06 124757.png>)
+VPC Router
+![alt text](<Screenshot 2024-06-10 200729.png>)
 
