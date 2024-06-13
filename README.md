@@ -29,3 +29,11 @@ Implementing a multi-tier VPC Subnet
 VPC Router
 ![alt text](<Screenshot 2024-06-10 200729.png>)
 
+Configuring A4L public subnets and Jumpbox
+![alt text](<Screenshot 2024-06-12 191403.png>)
+![alt text](<Screenshot 2024-06-12 192904.png>)
+![alt text](<Screenshot 2024-06-12 192921.png>)
+![alt text](<Screenshot 2024-06-12 192936.png>)
+
+
+
