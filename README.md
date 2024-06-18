@@ -38,4 +38,9 @@ Configuring A4L public subnets and Jumpbox
 Network Access Control Lists(NACLS)
 ![alt text](<Screenshot 2024-06-17 195637.png>)
 
+VPC Security Groups
+![alt text](<Screenshot 2024-06-17 204023.png>) 
+![alt text](<Screenshot 2024-06-17 203956.png>) 
+![alt text](<Screenshot 2024-06-17 203934.png>)
+![alt text](<Screenshot 2024-06-17 203907.png>)
 
