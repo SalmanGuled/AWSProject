@@ -44,3 +44,8 @@ VPC Security Groups
 ![alt text](<Screenshot 2024-06-17 203934.png>)
 ![alt text](<Screenshot 2024-06-17 203907.png>)
 
+Network Adress Translation and NAT Gateway
+![alt text](<Screenshot 2024-06-18 203917.png>)
+![alt text](<Screenshot 2024-06-18 204030.png>)
+
+
