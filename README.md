@@ -48,4 +48,7 @@ Network Adress Translation and NAT Gateway
 ![alt text](<Screenshot 2024-06-18 203917.png>)
 ![alt text](<Screenshot 2024-06-18 204030.png>)
 
+NAT Instance vs NAT Gateway
+![alt text](<Screenshot 2024-06-19 213021.png>)
+
 
