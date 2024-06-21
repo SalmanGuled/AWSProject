@@ -51,4 +51,7 @@ Network Adress Translation and NAT Gateway
 NAT Instance vs NAT Gateway
 ![alt text](<Screenshot 2024-06-19 213021.png>)
 
+Implementing Private Internet Access Using NAT gateways. Architecture:
+![alt text](<Screenshot 2024-06-20 220754.png>)
+
 
