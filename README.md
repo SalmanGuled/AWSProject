@@ -54,4 +54,8 @@ NAT Instance vs NAT Gateway
 Implementing Private Internet Access Using NAT gateways. Architecture:
 ![alt text](<Screenshot 2024-06-20 220754.png>)
 
+Elastic Compute Cloud(EC2)
+
+Virtualization
+![alt text](<Screenshot 2024-06-21 214339.png>)
 
