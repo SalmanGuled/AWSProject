@@ -57,5 +57,12 @@ Implementing Private Internet Access Using NAT gateways. Architecture:
 Elastic Compute Cloud(EC2)
 
 Virtualization
+
+![alt text](<Screenshot 2024-06-22 205258.png>)
+![alt text](<Screenshot 2024-06-22 205316.png>)
+![alt text](<Screenshot 2024-06-22 205335.png>)
+![alt text](<Screenshot 2024-06-22 205406.png>) 
+![alt text](<Screenshot 2024-06-22 205437.png>) 
+![alt text](<Screenshot 2024-06-22 205504.png>)
 ![alt text](<Screenshot 2024-06-21 214339.png>)
 
