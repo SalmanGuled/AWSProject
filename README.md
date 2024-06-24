@@ -66,3 +66,6 @@ Virtualization
 ![alt text](<Screenshot 2024-06-22 205504.png>)
 ![alt text](<Screenshot 2024-06-21 214339.png>)
 
+EC2 Architecture and Resilience
+
+
