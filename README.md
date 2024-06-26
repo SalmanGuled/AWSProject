@@ -69,6 +69,8 @@ Virtualization
 EC2 Architecture and Resilience 
 <-- Looking specifically at EC2 Hosts, how they are physically architected, why they are AZ resilient, and how the resilience of the Elastic Block Store (EBS) factors into our decisions as Solutions Architects. -->
 
-
+![alt text](<Screenshot 2024-06-26 193115.png>)
+![alt text](<Screenshot 2024-06-26 193148.png>)
+![alt text](<Screenshot 2024-06-26 193222.png>)
 
 
