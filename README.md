@@ -74,5 +74,5 @@ EC2 Architecture and Resilience
 ![alt text](<Screenshot 2024-06-26 193222.png>)
 
 EC2 Instance Types
-
+![alt text](<Screenshot 2024-07-01 201500.png>)
 
