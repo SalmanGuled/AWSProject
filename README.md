@@ -77,3 +77,6 @@ EC2 Instance Types
 ![alt text](<Screenshot 2024-07-01 201500.png>)
 ![alt text](<Screenshot 2024-07-03 220609.png>)
 
+Elastic Block Storage
+![alt text](<Screenshot 2024-07-08 192438.png>)
+
